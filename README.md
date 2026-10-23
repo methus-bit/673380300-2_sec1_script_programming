@@ -26,10 +26,10 @@ Email : methus.m@kkumail.com
 
 | Activity | Folder Link |
 |---|---|
-|1|[activity1-my-task-manager](Class activity/activity1-my-task-manager)|
-|2|[activity2-my-oop-task-manager](Class activity/activity2-my-oop-task-manager)|
-|3|[activity3-my-api-fetcher](Class activity/activity3-my-api-fetcher)|
-|4|[activity4-enhanced-task-manager-design](Class activity/activity4-enhanced-task-manager-design)|
+|1|[activity1-my-task-manager](Class_activity/activity1-my-task-manager)|
+|2|[activity2-my-oop-task-manager](Class_activity/activity2-my-oop-task-manager)|
+|3|[activity3-my-api-fetcher](Class_activity/activity3-my-api-fetcher)|
+|4|[activity4-enhanced-task-manager-design](Class_activity/activity4-enhanced-task-manager-design)|
 
 
 ## Mini Project
