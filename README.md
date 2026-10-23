@@ -22,6 +22,16 @@ Email : methus.m@kkumail.com
 |12|[week12](week12)|[week12/week12_LabBasic](week12/week12_LabBasic)|[week12/week12_LabAdv](week12/week12_LabAdv)|
 
 
+## Class Activity
+
+| Activity | Folder Link |
+|---|---|---|---|
+|1|[activity1-my-task-manager](Class activity/activity1-my-task-manager)|
+|2|[activity2-my-oop-task-manager](Class activity/activity2-my-oop-task-manager)|
+|3|[activity3-my-api-fetcher](Class activity/activity3-my-api-fetcher)|
+|4|[activity4-enhanced-task-manager-design](Class activity/activity4-enhanced-task-manager-design)|
+
+
 ## Mini Project
 
 **Battleship: Multi-Shot Edition (Mini-Project)**  
