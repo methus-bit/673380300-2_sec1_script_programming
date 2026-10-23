@@ -25,7 +25,7 @@ Email : methus.m@kkumail.com
 ## Class Activity
 
 | Activity | Folder Link |
-|---|---|---|---|
+|---|---|
 |1|[activity1-my-task-manager](Class activity/activity1-my-task-manager)|
 |2|[activity2-my-oop-task-manager](Class activity/activity2-my-oop-task-manager)|
 |3|[activity3-my-api-fetcher](Class activity/activity3-my-api-fetcher)|
