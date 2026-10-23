@@ -30,6 +30,9 @@ https://github.com/methus-bit/script-programming-mini-project
 
 ## Final Project
 
+**Battleship: Multi-Shot Edition (Final Project)**  
+Project repository:  
+https://github.com/methus-bit/script-programming-final-project
 
 ## Certificate
 
